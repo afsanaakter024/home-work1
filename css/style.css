@@ -1,0 +1,53 @@
+.wrapper{
+	width: 100%;
+
+
+}
+.logo{
+	background-color: pink;
+	padding-bottom: 2px;
+	margin-bottom: 15px;
+	text-align: center;
+
+}
+.nevigation{
+    padding-bottom: 2px;
+	margin-bottom: 15px;
+	background-color: pink;
+	text-align: center;
+
+
+}
+.header{
+	padding-bottom: 2px;
+	background-color: pink;
+	text-align: center;
+
+
+}
+.section{
+	overflow: hidden;
+	width: 100%;
+	margin-top: 15px;
+}
+.side{
+	float:left; 
+	padding:120px 0 120px 0px;
+	width: 35%;
+	background-color: pink;
+	text-align: center;
+}
+.area{
+	padding:120px 0 120px 0px;
+	float: right;
+	width: 60%;
+	background-color: pink;
+	text-align: center;
+	
+}
+.footer{
+	width: 100%;
+	background-color: pink;
+	text-align: center;
+	padding-bottom:  2px;
+}
